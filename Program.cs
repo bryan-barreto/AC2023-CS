@@ -7,8 +7,8 @@ namespace AOC2023
     {
         static void Main(string[] args)
         {
-            Day1.part1();
-            
+            // Day1.part1();
+            Day2.part1();
         }
     }
 }
