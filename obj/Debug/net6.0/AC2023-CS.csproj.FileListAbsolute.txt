@@ -1,0 +1,15 @@
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.csproj.AssemblyReference.cache
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.AssemblyInfoInputs.cache
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.AssemblyInfo.cs
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.csproj.CoreCompileInputs.cache
+C:\Projects\c#\AC2023-CS\bin\Debug\net6.0\AC2023-CS.exe
+C:\Projects\c#\AC2023-CS\bin\Debug\net6.0\AC2023-CS.deps.json
+C:\Projects\c#\AC2023-CS\bin\Debug\net6.0\AC2023-CS.runtimeconfig.json
+C:\Projects\c#\AC2023-CS\bin\Debug\net6.0\AC2023-CS.dll
+C:\Projects\c#\AC2023-CS\bin\Debug\net6.0\AC2023-CS.pdb
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.dll
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\refint\AC2023-CS.dll
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.pdb
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\AC2023-CS.genruntimeconfig.cache
+C:\Projects\c#\AC2023-CS\obj\Debug\net6.0\ref\AC2023-CS.dll
